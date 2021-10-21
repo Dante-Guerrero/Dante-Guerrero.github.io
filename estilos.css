@@ -3,6 +3,29 @@
     padding: 0px;
 }
 
+a:link { 
+    color:white; 
+    text-decoration: none; 
+}
+
+a:visited{ 
+    color: bisque; 
+    text-decoration: none; 
+}
+
+a:hover{ 
+    color: yellow; 
+    text-decoration: none; 
+    font-style:bold; 
+    font-size:larger;
+}
+
+a:active{ 
+    color: red; 
+    text-decoration: underline; 
+    font-style:bold; 
+}
+
 body{
     background: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -28,7 +51,13 @@ header{
 nav{
     background: black;
     height: 50px;
+    width: 100%;
     text-align: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
 }
 
 nav ul li{
@@ -36,7 +65,7 @@ nav ul li{
     list-style: none;
     margin: 10px;
     line-height: 30px;
-    width: 90px;
+    width: 120px;
     text-align: center;
 }
 
@@ -58,7 +87,7 @@ nav ul li{
 aside{
     float: left;
     width: calc(25% - 40px);
-    background: gray;
+    background: lightblue;
     color: black;
     min-height: 500px;
     padding: 10px;
@@ -76,27 +105,6 @@ footer{
     clear:both;
 }
 
-p a:link{ 
-    color:white; 
-    text-decoration: none; 
-}
 
-p a:visited{ 
-    color: bisque; 
-    text-decoration: none; 
-    font-weight: bold; 
-}
-
-p a:hover{ 
-    color: yellow; 
-    text-decoration: underline; 
-    font-style:bold; 
-}
-
-p a:active{ 
-    color: red; 
-    text-decoration: none; 
-    font-style:bold; 
-}
 
 
