@@ -81,3 +81,9 @@ p a:link{
     color:white; 
     text-decoration: none; 
 }
+
+p a:visited{ 
+    color: yellow; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
