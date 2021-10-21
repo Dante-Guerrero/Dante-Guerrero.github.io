@@ -29,6 +29,7 @@ nav{
     background: black;
     height: 50px;
     color: white;
+    text-decoration: none;
 }
 
 nav ul li{
@@ -38,7 +39,6 @@ nav ul li{
     line-height: 30px;
     width: 100px;
     text-align: center;
-    text-decoration: none;
 }
 
 #content{
