@@ -28,7 +28,7 @@ header{
 nav{
     background: black;
     height: 50px;
-    color: white;
+    text-align: center;
 }
 
 nav ul li{
@@ -83,7 +83,21 @@ p a:link{
 }
 
 p a:visited{ 
-    color: yellow; 
+    color: bisque; 
     text-decoration: none; 
     font-weight: bold; 
 }
+
+p a:hover{ 
+    color: yellow; 
+    text-decoration: underline; 
+    font-style:bold; 
+}
+
+p a:active{ 
+    color: red; 
+    text-decoration: none; 
+    font-style:bold; 
+}
+
+
