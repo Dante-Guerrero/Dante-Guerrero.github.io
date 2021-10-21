@@ -4,7 +4,7 @@
 }
 
 body{
-    background: beige;
+    background: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -16,18 +16,19 @@ body{
 }
 
 header{
-    background: blue;
+    background: white;
     height: 100px;
     width: 100%;
     margin: 0px;
     text-align: center;
     line-height: 100px;
-    color: beige;
+    color: black;
 }
 
 nav{
-    background: gray;
+    background: black;
     height: 50px;
+    color: white;
 }
 
 nav ul li{
@@ -35,14 +36,14 @@ nav ul li{
     list-style: none;
     margin: 10px;
     line-height: 30px;
-    width: 80px;
+    width: 100px;
     text-align: center;
 }
 
 #content{
     float: left;
     width: 75%;
-    background: lightblue;
+    background: white;
     min-height: 500px;
     padding: 10px;    
 }
@@ -50,15 +51,15 @@ nav ul li{
 .article{
     margin-top: 15px;
     margin-bottom: 20px;
-    border-bottom: 1px solid ghostwhite;
+    border-bottom: 1px solid black;
     padding-bottom: 10px;
 }
 
 aside{
     float: left;
     width: calc(25% - 40px);
-    background: darkblue;
-    color: beige;
+    background: gray;
+    color: black;
     min-height: 500px;
     padding: 10px;
 }
@@ -66,7 +67,7 @@ aside{
 footer{
     background: black;
     text-align: center;
-    color: beige;
+    color: white;
     height: 50px;
     line-height: 50px;
 
