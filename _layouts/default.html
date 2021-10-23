@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meta charset="utf-8">
+	  <title>Dante-Guerrero</title>
+	  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+	</head>
+	<body>
+			<div id="container">
+				
+				{% include header.html %}
+				{% include navigation.html %}
+
+				<div class="clearfix"></div>
+
+				<aside>
+					<h2>¡Hola!</h2>
+				</aside>
+
+				<section id="content">
+
+					{{ content }}
+
+				</section>
+
+				<div class="clearfix"></div>
+
+				{% include footer.html %}
+
+			</div>
+			
+	  </section>
+	</body>
+</html>
