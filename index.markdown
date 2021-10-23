@@ -5,4 +5,6 @@
 layout: default
 ---
 
-### Texto agregado desde archivo index.markdown en el root
+### Este sitio se encuentra en construcción.
+
+Pronto tendremos contenido muy interesante.
