@@ -3,24 +3,24 @@
     padding: 0px;
 }
 
-a:link { 
+.nav_a:link { 
     color:white; 
     text-decoration: none; 
 }
 
-a:visited{ 
+.nav_a:visited{ 
     color: bisque; 
     text-decoration: none; 
 }
 
-a:hover{ 
+.nav_a:hover{ 
     color: yellow; 
     text-decoration: none; 
     font-style:bold; 
     font-size:larger;
 }
 
-a:active{ 
+.nav_a:active{ 
     color: red; 
     text-decoration: underline; 
     font-style:bold; 
@@ -103,4 +103,9 @@ footer{
 
 .clearfix{
     clear:both;
+}
+
+.blog_article{
+    list-style: none;
+    margin: 10px;
 }
