@@ -26,3 +26,26 @@ body{
 .clearfix{
     clear:both;
 }
+
+a:link { 
+    color: #F16F6F; 
+    text-decoration: none; 
+}
+
+a:visited{ 
+    color: #C1224F; 
+    text-decoration: none; 
+}
+
+a:hover{ 
+    color: #F16F6F; 
+    text-decoration: underline; 
+    font-style:bold; 
+}
+
+a:active{ 
+    color: #F16F6F; 
+    text-decoration: underline; 
+    font-style:bold;
+    font-size:larger;
+}
