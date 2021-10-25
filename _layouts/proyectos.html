@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{{content}} 
+
+<ul>
+  {% for proyecto in site.mis_proyectos %}
+    <li class="blog_article">
+      <a href="{{ proyecto.url }}"> {{ proyecto.nombre }} - {{proyecto.fecha}}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- Borrar
+-->

@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-layout: default
+layout: proyectos
 ---
 
 Esta es la sección de los proyectos.

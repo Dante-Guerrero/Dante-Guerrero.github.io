@@ -57,3 +57,8 @@ sass:
 #   - vendor/ruby/
 
 collections_dir: my_collections
+
+collections:
+  mis_proyectos:
+    output: true
+
