@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-layout: proyectos
+layout: secciones/proyectos
 ---
 
 Esta es la sección de los proyectos.

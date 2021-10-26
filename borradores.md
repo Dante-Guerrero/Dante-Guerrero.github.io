@@ -1,8 +1,6 @@
 ---
 title: Borradores
-layout: default
-
-
+layout: secciones/borradores
 ---
 
 Esta es la sección de los borradores.

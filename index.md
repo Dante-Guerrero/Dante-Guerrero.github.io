@@ -1,5 +1,5 @@
 ---
-layout: inicio
+layout: secciones/inicio
 ---
 
 ### Este sitio se encuentra en construcción.
