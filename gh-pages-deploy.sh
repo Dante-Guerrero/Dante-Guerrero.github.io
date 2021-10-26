@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Este script fue obtenido de: https://sangsoonam.github.io/2019/02/08/using-git-worktree-to-deploy-github-pages.html 
+
 DIA=`date +"%d/%m/%Y"`
 HORA=`date +"%H:%M"`
 directory=_site

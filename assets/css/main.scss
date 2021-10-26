@@ -1,9 +1,24 @@
 ---
 ---
 
+/* individuales */
+
+@import "individuales/borrador";
+@import "individuales/post";
+@import "individuales/proyecto";
+
+/* parciales */
+@import "parciales/footer";
+@import "parciales/header";
+@import "parciales/navigation";
+
+/* secciones */
+@import "secciones/acerca_de_mi";
+@import "secciones/blog";
+@import "secciones/borradores";
+@import "secciones/inicio";
+@import "secciones/proyectos";
+
+/* general */
 @import "general";
-@import "header";
-@import "navigation";
-@import "footer";
-@import "inicio";
-@import "blog";
+
