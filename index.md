@@ -7,3 +7,5 @@ layout: inicio
 Pronto tendremos contenido muy interesante.
 
 =)
+
+Vamos por buen camino...

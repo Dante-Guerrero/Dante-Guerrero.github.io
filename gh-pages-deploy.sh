@@ -1,4 +1,6 @@
 #!/bin/bash
+DIA=`date +"%d/%m/%Y"`
+HORA=`date +"%H:%M"`
 directory=_site
 branch=gh-pages
 build_command() {
@@ -7,7 +9,7 @@ build_command() {
 
 echo -e "\033[0;32mUpdating main...\033[0m"
 git add --all
-git commit -m "Actualización automática"
+git commit -m "Actualización automática del $DIA a las $HORA"
 git push origin
 
 echo -e "\033[0;32mDeleting old content...\033[0m"
