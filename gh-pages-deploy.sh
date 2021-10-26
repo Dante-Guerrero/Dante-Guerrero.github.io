@@ -32,4 +32,4 @@ cd $directory &&
 
 echo -e "\033[0;32mCleaning up...\033[0m"
 
-echo y | git worktree remove $directory
+git worktree remove $directory
