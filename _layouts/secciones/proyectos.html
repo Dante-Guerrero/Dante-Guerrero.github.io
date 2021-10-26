@@ -5,12 +5,26 @@ layout: default
 {{content}} 
 
 <ul>
-  {% for proyecto in site.mis_proyectos %}
+  {% for post in paginator.posts %}
     <li class="blog_article">
-      <a href="{{ proyecto.url }}"> {{ proyecto.nombre }} - {{proyecto.fecha}}</a>
+      <a href="{{ post.url }}"> {{ post.nombre }} - {{post.fecha}}</a>
     </li>
   {% endfor %}
 </ul>
 
-<!-- Borrar
--->
+<!-- Paginación -->
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

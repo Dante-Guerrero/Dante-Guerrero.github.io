@@ -1,6 +1,9 @@
 ---
 title: Proyectos
 layout: secciones/proyectos
+pagination: 
+  enabled: true
+  collection: mis_proyectos
 ---
 
-Esta es la sección de los proyectos.
+Ésta es la sección de los proyectos.
