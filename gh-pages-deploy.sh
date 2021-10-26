@@ -5,6 +5,11 @@ build_command() {
   jekyll build
 }
 
+echo -e "\033[0;32mUpdating main...\033[0m"
+git add --all
+git commit -m "Actualización automática"
+git push origin
+
 echo -e "\033[0;32mDeleting old content...\033[0m"
 rm -rf $directory
 
