@@ -19,6 +19,14 @@ nav ul li { float: left; list-style: none; margin: 10px; line-height: 30px; widt
 
 .nav_a:active { color: #F16F6F; text-decoration: none; font-style: bold; }
 
+ul.pager { text-align: center; list-style: none; display: flex; justify-content: center; }
+
+ul.pager li { display: inline; border: 1px solid black; padding: 10px; margin: 5px; }
+
+.prev_siguiente { min-width: 80; }
+
+.selected { background-color: #FFF78F; }
+
 /* secciones */
 .blog_article { list-style: none; margin: 20px; }
 
