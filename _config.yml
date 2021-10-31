@@ -49,6 +49,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - TODO.md
 
 # Collection configurations
 
