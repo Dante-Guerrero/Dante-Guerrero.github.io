@@ -7,8 +7,20 @@ layout: default
   <ul>
     {% for post in paginator.posts %}
       <li class="blog_article">
-        <a href="{{ post.url }}"> {{ post.title }} </a>
-        <p> {{ post.date }} </p>
+        <section class="blog_article_imagen">
+          <a href="{{ post.url }}"> 
+            <img src="{{ post.imagen | relative_url }}" height="133" width="136"/>
+          </a>
+        </section>
+        <section class="blog_article_text">
+          <a class="blog_article_title" href="{{ post.url }}"> {{ post.title }} </a>
+          <p class="blog_article_date"> {{ post.date }} </p>
+          <p class="blog_article_resumen"> 
+            {{ post.resumen }} 
+            <a href="{{ post.url }}"> Leer post. </a>
+          </p>
+        </section>
+        <div class="clearfix"></div>
       </li>
     {% endfor %}
   </ul>
