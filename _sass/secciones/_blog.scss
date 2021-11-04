@@ -5,7 +5,6 @@
     color: black;
     min-height: 800px;
     padding-bottom: 20px;
-    padding-right: 20px;
 }
 
 .blog_2{
@@ -18,19 +17,19 @@
 
 .blog_article{
     list-style: none;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-top: 1px solid black ;
 }
 
 .blog_article_imagen{
     float: left;
-    width: 25%;
+    width: 136px;
     padding: 10px;
 }
 
 .blog_article_text{
     float: right;
-    width: calc(75% - 80px);
+    width: calc(100% - 176px);
     padding: 10px;
 }
 

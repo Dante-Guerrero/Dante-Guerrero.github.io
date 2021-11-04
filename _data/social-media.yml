@@ -1,0 +1,36 @@
+email:
+  id: 'dante.guerrerobarreto@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'dante.guerrero'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'DanteR_Guerrero'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+instagram:
+  id: 'dante.guerrero'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
+github:
+  id: 'Dante-Guerrero'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+linkedin:
+  id: 'dante-guerrero'
+  href: 'https://linkedin.com/in/'
+  title: 'Linkein'
+  fa-icon: 'fa-linkedin-square'
+
