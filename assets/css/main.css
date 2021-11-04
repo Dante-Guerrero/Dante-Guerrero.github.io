@@ -1,7 +1,7 @@
 /* individuales */
 /* Borrador */
 /* parciales */
-footer { background: black; text-align: center; color: white; height: 50px; line-height: 50px; }
+footer { background: black; text-align: center; color: white; height: 20px; line-height: 20px; padding-top: 20px; }
 
 header { background: white; height: 100px; width: 100%; margin: 0px; text-align: center; line-height: 100px; color: black; }
 
@@ -19,6 +19,8 @@ nav ul li { float: left; list-style: none; margin: 10px; line-height: 30px; widt
 
 .nav_a:active { color: #F16F6F; text-decoration: none; font-style: bold; }
 
+#social-media { background-color: black; padding-top: 5px; padding-bottom: 20px; }
+
 ul.pager { text-align: center; list-style: none; display: flex; justify-content: center; }
 
 ul.pager li { display: inline; border: 1px solid black; padding: 10px; margin: 5px; }
@@ -28,15 +30,15 @@ ul.pager li { display: inline; border: 1px solid black; padding: 10px; margin: 5
 .selected { background-color: #FFF78F; }
 
 /* secciones */
-.blog_1 { float: left; width: calc(75% - 80px); background: white; color: black; min-height: 800px; padding-bottom: 20px; padding-right: 20px; }
+.blog_1 { float: left; width: calc(75% - 80px); background: white; color: black; min-height: 800px; padding-bottom: 20px; }
 
 .blog_2 { float: right; width: 25%; background: #94D2E6; min-height: 800px; padding: 20px; }
 
-.blog_article { list-style: none; margin-bottom: 20px; border-top: 1px solid black; }
+.blog_article { list-style: none; margin-bottom: 10px; border-top: 1px solid black; }
 
-.blog_article_imagen { float: left; width: 25%; padding: 10px; }
+.blog_article_imagen { float: left; width: 136px; padding: 10px; }
 
-.blog_article_text { float: right; width: calc(75% - 80px); padding: 10px; }
+.blog_article_text { float: right; width: calc(100% - 176px); padding: 10px; }
 
 .blog_article_title { font-size: x-large; }
 
