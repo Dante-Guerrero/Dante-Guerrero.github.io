@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* individuales */
 /* Borrador */
 /* parciales */
@@ -5,11 +6,18 @@ footer { background: black; text-align: center; color: white; height: 20px; line
 
 header { background: white; height: 100px; width: 100%; margin: 0px; text-align: center; line-height: 100px; color: black; }
 
-nav { background: black; height: 50px; width: 100%; text-align: center; }
+#menu-area { background: black; }
 
-nav ul { display: flex; justify-content: center; }
+/* boton de navegación responsiva */
+#btn-menu { display: none; }
 
-nav ul li { float: left; list-style: none; margin: 10px; line-height: 30px; width: 150px; text-align: center; }
+#btn-menu-label { display: none; }
+
+nav { height: 50px; width: 100%; }
+
+nav ul { margin: 0; list-style: none; padding: 0; display: flex; justify-content: center; background: black; }
+
+nav ul li a { display: block; padding: 15px 20px; }
 
 .nav_a:link { color: white; text-decoration: none; }
 
@@ -18,6 +26,9 @@ nav ul li { float: left; list-style: none; margin: 10px; line-height: 30px; widt
 .nav_a:hover { color: #FFF78F; text-decoration: none; font-style: bold; font-size: larger; }
 
 .nav_a:active { color: #F16F6F; text-decoration: none; font-style: bold; }
+
+/* Ventana responsiva - se activa desde los 768px */
+@media (max-width: 768px) { #btn-menu-label { display: block; background: black; color: white; width: 30px; height: 30px; padding: 10px; border-right: solid 1px white; } #btn-menu-label:hover { cursor: pointer; background: rgba(0, 0, 0, 0.3); color: #FFF78F; } nav { position: absolute; width: 50%; margin-left: -50%; } nav ul { flex-direction: column; } nav ul li { border-top: 1px solid white; text-align: left; width: 100%; } #btn-menu:checked ~ #menu { margin: 0; } }
 
 #social-media { background-color: black; padding-top: 5px; padding-bottom: 20px; }
 
