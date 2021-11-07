@@ -1,22 +1,34 @@
-nav{
+#menu-area{
     background: black;
+}
+
+/* boton de navegación responsiva */
+
+#btn-menu{
+    display: none;
+}
+
+#btn-menu-label{
+    display: none;
+}
+
+nav{
     height: 50px;
     width: 100%;
-    text-align: center;
 }
 
-nav ul {
+nav ul{
+    margin: 0;
+    list-style: none;
+    padding: 0;
     display: flex;
     justify-content: center;
+    background: black;
 }
 
-nav ul li{
-    float: left;
-    list-style: none;
-    margin: 10px;
-    line-height: 30px;
-    width: 150px;
-    text-align: center;
+nav ul li a{
+    display: block;
+    padding: 15px 20px;
 }
 
 .nav_a:link { 
@@ -41,3 +53,39 @@ nav ul li{
     text-decoration: none; 
     font-style:bold; 
 }
+
+/* Ventana responsiva - se activa desde los 768px */
+
+@media (max-width:768px) {
+    #btn-menu-label{
+        display: block;
+        background: black;
+        color: white;
+        width: 30px;
+        height: 30px;
+        padding: 10px;
+        border-right: solid 1px white;
+    }
+    #btn-menu-label:hover{
+        cursor: pointer;
+        background: rgba(0, 0, 0, 0.3);
+        color: #FFF78F;
+    }
+    nav{
+        position: absolute;
+        width: 50%;
+        margin-left: -50%;
+    }
+    nav ul{
+        flex-direction: column;
+    }
+    nav ul li{
+        border-top: 1px solid white;
+        text-align: left;
+        width: 100%;
+    }
+    #btn-menu:checked ~ #menu{
+        margin: 0;
+    }
+}
+
