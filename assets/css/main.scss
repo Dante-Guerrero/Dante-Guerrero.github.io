@@ -3,9 +3,8 @@
 
 /* individuales */
 
-@import "individuales/borrador";
+@import "individuales/publicacion";
 @import "individuales/post";
-@import "individuales/proyecto";
 
 /* parciales */
 @import "parciales/disqus";
@@ -18,9 +17,9 @@
 /* secciones */
 @import "secciones/acerca_de_mi";
 @import "secciones/blog";
-@import "secciones/borradores";
+@import "secciones/publicaciones";
 @import "secciones/inicio";
-@import "secciones/proyectos";
+@import "secciones/contactame";
 
 /* general */
 @import "general";

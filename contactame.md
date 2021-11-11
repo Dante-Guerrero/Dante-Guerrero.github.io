@@ -1,6 +1,6 @@
 ---
 title: Contáctame
-layout: secciones/proyectos
+layout: secciones/contactame
 
 ---
 

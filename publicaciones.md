@@ -1,6 +1,6 @@
 ---
 title: Borradores
-layout: secciones/borradores
+layout: secciones/publicaciones
 pagination: 
   enabled: true
 ---
