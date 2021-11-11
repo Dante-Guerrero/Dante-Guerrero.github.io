@@ -2,6 +2,8 @@
 /* individuales */
 /* Borrador */
 /* parciales */
+#disqus_thread { padding-top: 20px; border-top: 1px solid black; }
+
 footer { background: black; text-align: center; color: white; height: 20px; line-height: 20px; padding-top: 20px; }
 
 header { background: white; height: 100px; width: 100%; margin: 0px; text-align: center; line-height: 100px; color: black; }
