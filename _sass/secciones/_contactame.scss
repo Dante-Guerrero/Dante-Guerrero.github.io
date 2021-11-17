@@ -1,0 +1,72 @@
+#titulo_de_sección_de_contacto{
+    width:400px;
+    margin:auto;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    font-size: x-large;
+    padding-bottom: 20px;
+}
+
+#formulario_de_contacto{
+    width:400px;
+	padding:16px;
+	border-radius:5px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+#formulario_de_contacto label{
+	width:220px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+#formulario_de_contacto input[type="email"]{
+	width:96%;
+    height: 20px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 2%;
+}
+
+#formulario_de_contacto textarea{
+	width:96%;
+	height:120px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+	/*resize: vertical | horizontal | none | both*/
+	resize:none;
+	display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 2%;
+}
+
+#formulario_de_contacto button[type="submit"]{
+	width:100%;
+    padding: 10px;
+	margin-top:5px;
+	border:1px solid #000;
+	border-radius:3px;
+	display:block;
+	color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+	background-color:#000;
+} 
+
+#formulario_de_contacto button[type="submit"]:hover{
+	cursor:pointer;
+}
+

@@ -2,22 +2,39 @@
 layout: default
 ---
 
-{{content}} 
+<section id="titulo_de_sección_de_contacto">
+  <h1>
+    CONTÁCTAME
+  </h1>
+</section>
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mvodeoby"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+<section>
+
+  <form id="formulario_de_contacto" action="https://formspree.io/f/mvodeoby" method="POST">
+
+    <label>
+      Nombres y apellidos:
+    </label>
+    <input type="email" name="_replyto" placeholder="Escribe tus nombres y apellidos"/>
+
+    <label>
+      Correo electrónico:
+    </label>
+    <input type="email" name="_replyto" placeholder="Escribe tu correo electrónico"/>
+
+    <label>
+      Mensaje:
+    </label>
+    <textarea name="message" placeholder="Escribe tu mensaje (hasta 300 carácteres)" maxlength="300"></textarea>
+
+    <!-- your other form fields go here -->
+    
+    <button type="submit">
+      ENVIAR
+    </button>
+
+  </form>
+
+</section>
+
 
