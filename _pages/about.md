@@ -9,7 +9,7 @@ redirect_from:
 
 ## Coordenadas iniciales
 
-Me casé con el amor de mi vida y tenemos una familia hermosa que incluye **tres hijas y un hijo**. 
+Me casé con el amor de mi vida y tenemos una familia hermosa (con 4 hijos/as). 
 
 Soy **abogado** y me gusta **programar** (sí, en **Python** y en otros lenguajes). Disfruto construyendo sistemas que hacen que el trabajo sea más inteligente, más rápido y más humano.
 
