@@ -15,7 +15,7 @@ Soy **abogado** y me gusta **programar** (sí, en **Python** y en otros lenguaje
 
 Llevo **más de 10 años trabajando en el Estado**, donde aprendí que las instituciones cambian cuando alguien se toma en serio los detalles y no le tiene miedo a rediseñar lo que “siempre fue así”.
 
-El **dibujo, la fotografía y la edición de video** también forman parte de cómo pienso y trabajo. Son medios de expresión que me ayudan a desbloquear ideas, encontrar conexiones y comunicar mejor lo que importa.
+El **dibujo y la fotografía** forman parte de cómo pienso y trabajo. Son medios de expresión que me ayudan a desbloquear ideas, encontrar conexiones y comunicar mejor lo que importa.
 
 Además, estoy construyendo mi propio **Zettelkasten en Obsidian** para potenciar mi producción académica, ordenar mejor el conocimiento y sostener una práctica intelectual más rigurosa.
 
@@ -41,12 +41,11 @@ Diseño y enseño con un objetivo: formar profesionales que combinen **derecho**
 ## Una manera de decirlo
 
 Aprendo del pasado para no improvisar.  
-Miro al futuro para imaginar lo que todavía podemos construir.  
+Miro al futuro para imaginar lo que podemos construir.  
 Trabajo en el presente para aportar, con intención y con método, a la transición que estamos viviendo.
 
-Creo en las ideas bien ejecutadas.  
-Y creo que, cuando se trabaja en serio, sí es posible marcar la diferencia.
+Creo en las ideas bien ejecutadas. Y considero que, cuando se trabaja en serio, sí es posible marcar la diferencia.
 
-## ¿Te interesan los mismos temas?
+## ¿Te interesan los mismos temas que a mí?
 
-**Conversemos**. Los enlaces a mis perfiles académicos y profesionales están en el panel lateral.
+**Conversemos**. Esta página contiene enlaces a mis perfiles académicos y profesionales.
