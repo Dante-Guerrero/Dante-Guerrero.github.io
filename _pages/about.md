@@ -1,8 +1,10 @@
 ---
-layout: single
+permalink: /
+title: "Dante Guerrero"
 author_profile: true
-permalink: /about/
-title: "Inicio"
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## Derecho, innovación y poder institucional
