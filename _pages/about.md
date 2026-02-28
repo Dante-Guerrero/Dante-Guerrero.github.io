@@ -21,15 +21,9 @@ Y como no tenía suficientes obsesiones, estoy construyendo mi propio **Zettelka
 
 También soy **docente universitario** y he participado en el **diseño de cursos y programas académicos**.
 
-## Mi lema
+## Mi lema:💡 Implementemos ideas que cambien el mundo.
 
-**💡 Implementemos ideas que cambien el mundo.**
-
-No como frase bonita para LinkedIn. Como práctica diaria.
-
-Mi fórmula de trabajo es directa:
-
-**Procesos + Información + Tecnología**
+Mi fórmula de trabajo es directa: **Procesos + Información + Tecnología**
 
 Y un principio que no negocio: **nadie llega lejos solo**. Los proyectos que valen la pena se construyen en equipo, con método, con constancia y con gente buena que no se rinde a la primera fricción.
 
