@@ -1,73 +1,51 @@
 ---
 permalink: /
-title: "Dante Guerrero"
+title: "Acerca de mí"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Derecho, innovación y poder institucional
+## Coordenadas iniciales
 
-Soy abogado, MBA y gestor público. Trabajo donde el derecho deja de ser teoría y se convierte en capacidad real de intervención del Estado.
+Me casé con el amor de mi vida. Tengo 3 hijas y 1 hijo.  
 
-Actualmente coordino funciones en la Dirección de Fiscalización de INDECOPI, participando en procesos de modernización institucional e incorporación de herramientas de inteligencia artificial en la supervisión pública. Mi foco no es solo cumplir la norma: es diseñar instituciones que funcionen mejor.
+Soy un abogado que programa (en Python). 
 
-Paralelamente, soy docente universitario y diseñador académico. Enseño Derecho Administrativo y Derecho Ambiental, y desarrollo cursos orientados a innovación jurídica y tecnología aplicada al derecho.
+He trabajado más de 10 años en el Estado. 
 
----
+Me gusta el dibujo, la fotografía y la edición de video. 
 
-## Lo que me mueve
+Estoy construyendo mi propio Zettelkasten en Obsidian y pretendo que me ayude a impulsar mi producción académica. 
 
-Me interesa una pregunta concreta:
+Soy docente universitario 
 
-**¿Cómo fortalecemos la capacidad regulatoria del Estado sin debilitar garantías, racionalidad técnica y debido proceso?**
+He participado en el diseño de cursos y programas académicos.
 
-Trabajo sobre esa tensión todos los días.
+## Mi lema es: "💡 Implementemos ideas que cambien el mundo"
 
-Mis áreas de acción incluyen:
+Trabajo en esto todos los días. 
 
-- Potestad fiscalizadora y sancionadora  
-- Gobernanza y diseño institucional  
-- Modernización pública  
-- Inteligencia artificial aplicada al derecho  
-- LegalTech y gestión del conocimiento  
+Procesos + Información + Tecnología
 
-No me interesa la tecnología como moda. Me interesa como herramienta de transformación estructural.
-
----
+Sé que nadie llega lejos solo. Por eso considero que el trabajo en equipo es la clave para el desarrollo de los proyectos que valen la pena. 
 
 ## Lo que estoy construyendo
 
-Desarrollo proyectos en tres frentes:
+Desarrollo mis actividades en tres frentes:
 
-**1. Innovación pública**  
-Integración de IA y análisis asistido en procesos de fiscalización.
+**1. Investigación y gestión del conocimiento**
+Hay que pararse en hombros de gigantes. 
 
-**2. Academia aplicada**  
+**2. Innovación para la solución de problemas**  
+Hay que enfrentar
+
+**3. Formación del talento que marcará la diferencia**  
 Diseño de programas de especialización y maestría en Derecho Ambiental, con estándares internacionales y enfoque práctico.
 
-**3. Infraestructura intelectual**  
-Sistemas personales de gestión del conocimiento, investigación estructurada y publicación académica con ambición internacional.
+Dicho de otra manera. Me enfoco en el pasado para aprender. Me enfoco en el futuro para soñar en lo que podemos lograr. Vivo en el presente entendiendo cuál es nuestro rol en la transición. Sé que podemos marcar la diferencia.
 
-Creo en profesionales que combinan rigor jurídico, capacidad estratégica y alfabetización tecnológica.
+## ¿Te interesan los mismos temas que a mi?
 
----
-
-## Perfil
-
-- Abogado  
-- MBA  
-- Gestor público  
-- Docente  
-- Constructor de sistemas  
-
-Trabajo en la intersección entre derecho, política pública y tecnología.
-
----
-
-## Conectar
-
-Si te interesan la regulación, la innovación institucional o la transformación digital del Estado, podemos conversar.
-
-Los enlaces a mis perfiles académicos y profesionales están en el panel lateral.
+¡Conéctemos! Los enlaces a mis perfiles académicos y profesionales están en el panel lateral. 
