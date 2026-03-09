@@ -22,7 +22,7 @@ repository               : "Dante-Guerrero/Dante-Guerrero.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Dante Guerrero"
   pronouns         : # example: "she/her"  
   bio              : "Abogado, MBA, gestor y docente. Trabajo en la intersección entre el derecho y la tecnología."
